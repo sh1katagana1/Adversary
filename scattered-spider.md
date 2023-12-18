@@ -96,39 +96,39 @@ https://www.malwarebytes.com/blog/personal/2023/09/ransomware-group-steps-up-iss
 # MITRE
 * T1589-Gather Victim Identity Information
 * T1598-Phishing for Information
-T1583.001-Acquire Infrastructure: Domains
-T1585.001-Establish Accounts: Social Media Accounts
-T1566-Phishing
-T1660-Phishing (Mobile)
-T1566.004-Phishing: Spearphishing Voice
-T1199-Trusted Relationship
-T1078.002-Valid Accounts: Domain Accounts
-T1648-Serverless Execution
-T1204-User Execution
-T1136-Create Account
-T1556.006-Modify Authentication Process: Multi-Factor Authentication
-T1078-Valid Accounts
-T1484.002-Domain Policy Modification: Domain Trust Modification
-T1578.002-Modify Cloud Compute Infrastructure: Create Cloud Instance
-T1606-Forge Web Credentials
-T1621-Multi-Factor Authentication Request Generation
-T1552.001-Unsecured Credentials: Credentials in Files
-T1552.004-Unsecured Credentials: Private Keys
-T1217-Browser Information Discovery
-T1538-Cloud Service Dashboard
-T1083-File and Directory Discovery
-T1018-Remote System Discovery
-T1539-Steal Web Session Cookie
-T1021.007-Remote Services: Cloud Services
-T1213.003-Data from Information Repositories: Code Repositories
-T1213.002-Data from Information Repositories: Sharepoint
-T1074-Data Staged
-T1114-Email Collection
-T1530-Data from Cloud Storage
-T1219-Remote Access Software
-T1486-Data Encrypted for Impact
-T1567.002-Exfiltration Over Web Service: Exfiltration to Cloud Storage
-T1657-Financial Theft
+* T1583.001-Acquire Infrastructure: Domains
+* T1585.001-Establish Accounts: Social Media Accounts
+* T1566-Phishing
+* T1660-Phishing (Mobile)
+* T1566.004-Phishing: Spearphishing Voice
+* T1199-Trusted Relationship
+* T1078.002-Valid Accounts: Domain Accounts
+* T1648-Serverless Execution
+* T1204-User Execution
+* T1136-Create Account
+* T1556.006-Modify Authentication Process: Multi-Factor Authentication
+* T1078-Valid Accounts
+* T1484.002-Domain Policy Modification: Domain Trust Modification
+* T1578.002-Modify Cloud Compute Infrastructure: Create Cloud Instance
+* T1606-Forge Web Credentials
+* T1621-Multi-Factor Authentication Request Generation
+* T1552.001-Unsecured Credentials: Credentials in Files
+* T1552.004-Unsecured Credentials: Private Keys
+* T1217-Browser Information Discovery
+* T1538-Cloud Service Dashboard
+* T1083-File and Directory Discovery
+* T1018-Remote System Discovery
+* T1539-Steal Web Session Cookie
+* T1021.007-Remote Services: Cloud Services
+* T1213.003-Data from Information Repositories: Code Repositories
+* T1213.002-Data from Information Repositories: Sharepoint
+* T1074-Data Staged
+* T1114-Email Collection
+* T1530-Data from Cloud Storage
+* T1219-Remote Access Software
+* T1486-Data Encrypted for Impact
+* T1567.002-Exfiltration Over Web Service: Exfiltration to Cloud Storage
+* T1657-Financial Theft
 
 
 # IOCs
