@@ -94,8 +94,8 @@ https://www.malwarebytes.com/blog/personal/2023/09/ransomware-group-steps-up-iss
 
 
 # MITRE
-T1589-Gather Victim Identity Information
-T1598-Phishing for Information
+* T1589-Gather Victim Identity Information
+* T1598-Phishing for Information
 T1583.001-Acquire Infrastructure: Domains
 T1585.001-Establish Accounts: Social Media Accounts
 T1566-Phishing
